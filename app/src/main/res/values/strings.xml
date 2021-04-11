@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Buggy Controller</string>
+    <string name="button_forward">Forwards</string>
+    <string name="button_backwards">Backward</string>
+    <string name="button_left">Rotate Left</string>
+    <string name="button_right">Rotate Right</string>
 </resources>
